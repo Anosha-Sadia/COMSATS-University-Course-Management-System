@@ -1,1 +1,1 @@
-# COMSATS-University-Course-Management-System
+# Sukkur IBA University Course Management System
